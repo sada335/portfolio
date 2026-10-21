@@ -1,34 +1,28 @@
 {
     "experiences": [
       {
-        "title": "Research Assistant",
-        "company": "[Young Learners Research Lab](https://web.facebook.com/aysrizon.ylrl)",
-        "duration": "Jan 2023 - Present",
-        "description": "Conducting research on NLP and deep learning, with a focus on improving model efficiency and explainability. Primarily working with Bengali data, an underexplored domain, alongside English datasets. Published multiple conference and journal articles, with ongoing research in progress."
+        "title": "Research Experience",
+        "company": "Academic Research",
+        "duration": "2023 - Present",
+        "description": "Published research on **Gender Abusive Language Detection in Bengali Using Machine Learning Algorithms** in the 2nd International Conference on Big Data, IoT and Machine Learning, Springer, 2023. This research focuses on developing machine learning models to identify and classify abusive language patterns in Bengali text, contributing to safer digital communication platforms."
       },
       {
-        "title": "Research Assistant",
-        "company": "Computational Linguistics Research Lab",
-        "duration": "June 2023 - Present",
-        "description": "Conducting research in computational linguistics, focusing on word embeddings in literary texts, contextual embeddings, topic modeling, and stylometric analysis of writers. Projects include analyzing American slave narratives, exploring linguistic patterns, and advancing NLP techniques for literary research."
+        "title": "Leadership Development",
+        "company": "Banglalink Womentor 5.0 Program",
+        "duration": "July 2024 - December 2024",
+        "description": "Selected among the **Top 15 Female STEM talents nationwide**. Participated in an intensive leadership development program held at Banglalink Head Office, Gulshan-1, Dhaka. The program focused on developing technical leadership skills, mentorship capabilities, and professional growth in the technology sector."
       },
       {
-        "title": "AI Trainer (Coder Training)",
-        "company": "Remotask",
-        "duration": "January 2023 - August 2023",
-        "description": "Trained AI models by providing high-quality data annotations, improving model performance in various tasks such as problem solving, text processing, and language understanding."
+        "title": "Leadership Training",
+        "company": "Aspire Leaders Program 2024",
+        "duration": "April 2024 - July 2024",
+        "description": "Completed leadership development program organized by the **Aspire Institute, founded at Harvard University**. Gained valuable insights into leadership principles, team management, and strategic thinking applicable to technology and research environments."
       },
       {
-        "title": "AI Trainer, Contributor & Quality Control",
-        "company": "Outlier",
-        "duration": "February 2024 - Present",
-        "description": "Worked on AI model training, contributing to dataset creation and refining model outputs. Ensured data quality by performing detailed quality control checks on AI-generated content."
-      },
-      {        
-        "title": "Teacher",
-        "company": "University Student",
-        "duration": "February 2024 - Present",
-        "description": "nothiing"
+        "title": "Professional Training",
+        "company": "Python & Web Development",
+        "duration": "2023 - 2025",
+        "description": "Completed multiple professional training programs including **Python (Django) Training** under RUET EDGE project, **Python Training with PCEP Certification (93% Score)**, and **LEDP Training in Web Design & Development**. These training programs enhanced technical skills in software development and web technologies."
       }
     ]
   }

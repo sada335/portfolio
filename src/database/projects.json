@@ -1,96 +1,44 @@
 {
   "projects": [
     {
-      "title": "Temperature Prediction using Different ML and DL Algorithms",
+      "title": "Bangla Hate Speech Detection (CSE 3200 Project)",
       "year": "2023-24",
       "description": [
-        "Developed a temperature prediction system using multiple machine learning and deep learning algorithms.",
-        "Implemented various regression models like Linear Regression, Random Forest, and Neural Networks to predict temperature."
+        "Built a **BiLSTM model** using a 5K self-collected dataset for detecting Bangla hate comments.",
+        "Applied **TF-IDF vectorization**, comprehensive preprocessing techniques, and evaluated model performance using precision & recall metrics.",
+        "Achieved significant accuracy in identifying hate speech patterns in Bengali language text."
       ],
-      "tools": "Python, Scikit-learn, TensorFlow, Keras, Pandas, Numpy"
+      "tools": "Python, BiLSTM, TF-IDF, Natural Language Processing"
     },
     {
-      "title": "Amount of Sale Prediction in a Super Shop named Amana",
+      "title": "Luminous Learners Portal (CSE 3100 Project)",
       "year": "2023-24",
       "description": [
-        "Developed a predictive model to forecast sales in a super shop using historical data.",
-        "Used time series analysis and models like ARIMA, Random Forest, and Gradient Boosting for predictions."
+        "Developed a comprehensive **study portal website** for educational management.",
+        "Built using **Django framework** with responsive design using HTML, CSS, and Bootstrap.",
+        "Features include lecture management, notes organization, assignment tracking, and e-resources repository."
       ],
-      "tools": "Python, Scikit-learn, Pandas, Numpy, Matplotlib"
+      "tools": "Django, Python, HTML, CSS, Bootstrap, SQLite"
     },
     {
-      "title": "Emotion Detection from Audio Data Using Transfer Learning",
-      "year": "2024",
-      "description": [
-        "Implemented a transfer learning model to detect emotions from audio data.",
-        "Leveraged pre-trained models like VGGish and fine-tuned them on emotion-labeled audio clips."
-      ],
-      "tools": "Python, TensorFlow, Keras, Librosa, Transfer Learning Models"
-    },
-    {
-      "title": "Authorship Attribution using Statistical technique Markov model",
-      "year": "2023-24",
-      "description": [
-        "Developed a statistical model for authorship attribution based on writing style.",
-        "Used Markov Model to analyze trends in writing style such as sentence length, punctuation usage."
-      ],
-      "tools": "Python, NLTK, Scikit-learn, Pandas"
-    },
-    {
-      "title": "Filtering IMDb Movie Review System with BERT Model",
+      "title": "Hotel Management System (CSE 2100 Project)",
       "year": "2022-23",
       "description": [
-        "Built a movie review filtering system using BERT-based transformer models.",
-        "Classified reviews into 4 categories: excellent, good, average, bad.",
-        "Compared BERT with traditional models like RFC, LR, XGBoost."
+        "Created a **Java-based GUI hotel management system** with comprehensive functionality.",
+        "Implemented billing system, reservation management, and file handling capabilities.",
+        "Designed with **Object-Oriented Programming principles** ensuring modular and maintainable code architecture."
       ],
-      "tools": "Python, Hugging Face Transformers, BERT, Scikit-learn"
+      "tools": "Java, Swing, OOP, File Handling, GUI Development"
     },
     {
-      "title": "Sarcasm Detection in Bengali Language using Deep Learning",
-      "year": "2022-23",
+      "title": "Gender Abusive Language Detection Research",
+      "year": "2023",
       "description": [
-        "Applied custom BERT model with bi-LSTM and self-supervised learning (MLM) to detect sarcasm in Bangla.",
-        "Achieved 82% accuracy, highest among existing studies."
+        "Conducted research on **Gender Abusive Language Detection in Bengali** using machine learning algorithms.",
+        "Published findings in the **2nd International Conference on Big Data, IoT and Machine Learning** by Springer.",
+        "Developed models to identify and classify abusive language patterns targeting gender-based harassment."
       ],
-      "tools": "Python, Hugging Face Transformers, BERT, Scikit-learn, LSTM"
-    },
-    {
-      "title": "Saint Common Detection using Transfer Learning",
-      "year": "2022-23",
-      "description": [
-        "Used Bangla-Blend Dataset with custom BERT models and self-supervised learning (MLM).",
-        "Achieved 97% accuracy, a significant achievement in NLP."
-      ],
-      "tools": "Python, Hugging Face Transformers, BERT, Scikit-learn, LSTM"
-    },
-    {
-      "title": "IPA transcription in Bengali Language",
-      "year": "2022-23",
-      "description": [
-        "Trained a seq-to-seq model to translate Bangla Text to IPA.",
-        "Built a custom function to handle corner cases for improved performance."
-      ],
-      "tools": "Python, Hugging Face, T5"
-    },
-    {
-      "title": "Local Dialect Translation using Machine Learning",
-      "year": "2022-23",
-      "description": [
-        "Trained BanglaT5 model on ONUBAD dataset for regional dialect to standard Bangla translation.",
-        "Achieved a WER of 0.09."
-      ],
-      "tools": "Python, Hugging Face, T5"
-    },
-    {
-      "title": "Erosion-Deposition Detection using ML Models",
-      "year": "2025",
-      "description": [
-        "Led a project under Lab of Oitik with two Civil Engineering students.",
-        "Developed models for detecting erosion and deposition patterns.",
-        "Boosting algorithms achieved R² scores of 0.95 (erosion) and 0.97 (deposition)."
-      ],
-      "tools": "Python, Scikit-learn, Random Forest, Boosting Algorithms"
+      "tools": "Python, Machine Learning, NLP, Bengali Language Processing, Research Methodology"
     }
   ]
 }

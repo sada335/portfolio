@@ -1,6 +1,23 @@
 {
     "teaching": [
-      
+      {
+        "title": "Lecturer in Computer Science & Engineering",
+        "institution": "World University of Bangladesh",
+        "duration": "July 2025 - Present",
+        "description": "Appointed as **Lecturer** in the Department of Computer Science & Engineering at World University of Bangladesh, Dhaka. Dedicated to **academic excellence**, **student mentorship**, and **knowledge dissemination** in cutting-edge technologies. Responsible for delivering high-quality education in **Artificial Intelligence**, **Machine Learning**, and **Software Engineering** while fostering innovation and research culture among students."
+      },
+      {
+        "title": "Research Mentoring & Knowledge Sharing",
+        "institution": "Academic Community",
+        "duration": "2023 - Present",
+        "description": "Engaged in mentoring junior students and sharing research insights through academic discussions and collaborative projects. Contributed to knowledge dissemination in the fields of **Artificial Intelligence** and **Natural Language Processing**, particularly focusing on Bengali language processing and machine learning applications."
+      },
+      {
+        "title": "Leadership Development & Training",
+        "institution": "Banglalink Womentor 5.0 Program",
+        "duration": "July 2024 - December 2024",
+        "description": "Participated in comprehensive leadership training program designed to develop technical leadership skills and mentorship capabilities. Gained experience in **knowledge sharing**, **team collaboration**, and **professional development** within STEM fields."
+      }
     ]
   }
   

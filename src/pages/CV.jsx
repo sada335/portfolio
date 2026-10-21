@@ -9,15 +9,15 @@ const CV = () => {
       
       <div className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="bg-gray-50 px-4 py-3 border-b border-gray-200">
-          <h2 className="text-lg font-semibold text-gray-800">Academic CV - Tanbeer Jubaer</h2>
+          <h2 className="text-lg font-semibold text-gray-800">Academic CV - Sumaiya Rahman</h2>
           <p className="text-sm text-gray-600">Click and drag to navigate through the CV</p>
         </div>
         
         <div className="relative" style={{ height: '80vh' }}>
           <iframe
-            src="/portfolio/files/Academic_CV_Oitik.pdf"
+            src="./files/My new CV for Lec- Updated (15-07-25).pdf"
             className="w-full h-full border-0"
-            title="Tanbeer Jubaer CV"
+            title="Sumaiya Rahman CV"
             style={{ minHeight: '600px' }}
           />
         </div>

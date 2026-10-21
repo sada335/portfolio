@@ -1,212 +1,52 @@
 {
     "publications": [
         {
-            "image": "https://ras-95.github.io/images/Research/Ongoing/ongoing.png",
-            "title": "**Navigating Bengali Linguistics: Insights from Machine and Deep Learning Perspectives for Categorization of Sentences**",
-            "paper_url": "https://www.researchgate.net/publication/378545042_Navigating_Bengali_Linguistics_Insights_from_Machine_and_Deep_Learning_Perspectives_for_Categorization_of_Sentences#fullTextFileContent",
+            "image": "./paper_img/overall.png",
+            "title": "**Gender Abusive Language Detection in Bengali Using Machine Learning Algorithms**",
+            "paper_url": "#",
             "authors": [
                 {
-                    "name": "Md Minhazul Islam",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Md Tanbeer Jubaer",
-                    "profile": "https://www.researchgate.net/profile/Tanbeer-Jubaer"
-                },
-                {
-                    "name": "Azmain Yakin Srizon",
-                    "profile": "https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en"
+                    "name": "Sumaiya Rahman",
+                    "profile": "https://www.linkedin.com/in/rsumaiya"
                 }
             ],
             "notes": [
-            "Accepted - (ICCIT 2023 - *International Conference on Computer and Information Technology*)"
-        ],
-            "description": "The paper explores the classification of Bengali sentences, a crucial area for advancing natural language processing (NLP) in linguistically rich languages. Using a recently published Bengali sentence dataset (BTSD) of 3,793 samples, the study applies BERT-based, Glove-based, and TF-IDF-based vectorization approaches, achieving a notable ***98.07%*** accuracy with BERT-based vectorization. This underscores its potential for real-world applications beyond the dataset. The findings contribute to a deeper understanding of Bengali sentence structures, with implications for computational linguistics and NLP research.",
-            "supervisors": [
-                {
-                    "name": "Azmain Yakin Srizon",
-                    "profile" : "https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en"
-                }
-            ]
+                "Published - (2nd International Conference on Big Data, IoT and Machine Learning, Springer, 2023)"
+            ],
+            "description": "This research focuses on developing machine learning algorithms to detect gender-based abusive language in Bengali text. The study addresses the critical need for automated detection systems to identify and filter harmful content targeting individuals based on gender. The research contributes to creating safer digital communication platforms by implementing effective natural language processing techniques specifically designed for Bengali language patterns and cultural contexts.",
+            "supervisors": []
         },
         {
-            "image": "https://ras-95.github.io/images/Research/Ongoing/ongoing.png",
-            "title": "**Consistency of Contextual Embedding in Literary Texts**",
-            "paper_url": "https://github.com/oitik/papers/blob/master/130_paper.pdf",
+            "image": "./paper_img/sentiment_nodis.png",
+            "title": "**Classifying Fake News With A Large-Scale Dataset Using Machine Learning Approaches**",
+            "paper_url": "#",
             "authors": [
                 {
-                    "name": "Md Minhazul Islam",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Md Tanbeer Jubaer",
-                    "profile": "https://www.researchgate.net/profile/Tanbeer-Jubaer"
-                },
-                {
-                    "name": "Mohammad Harun Or Rashid",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
+                    "name": "Sumaiya Rahman",
+                    "profile": "https://www.linkedin.com/in/rsumaiya"
                 }
             ],
             "notes": [
-                "Accepted - (ICISET 2024)"
+                "Accepted - (IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking, 2025)"
             ],
-            "description": "This research explores the effectiveness of contextual embedding techniques in analyzing complex literary texts. Using a small corpus of two novels by Ian Fleming and two short stories by Guy De Maupassant, the study fine-tunes the BERT model to extract contextual embeddings. The findings reveal notable contrasts within each narrative, highlighting the capability of BERT to enhance thematic consistency in literary analysis.",
-            "supervisors": [
-                {
-                    "name": "Mohammad Harun Or Rashid",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                }
-            ]
+            "description": "This comprehensive study presents machine learning approaches for fake news classification using large-scale datasets. The research addresses the growing challenge of misinformation in digital media by developing robust classification algorithms capable of distinguishing between authentic and fabricated news content. The work contributes to combating the spread of false information through advanced computational techniques and comprehensive data analysis methodologies.",
+            "supervisors": []
         },
         {
-            "image": "portfolio/public/paper_img/overall.png",
-            "title": "**Detecting Discrepancy to Enhance the Accuracy of Sentiment and Emotion Analysis: A Study Based on Bangla E-commerce Dataset**",
-            "paper_url": "https://github.com/oitik/papers/blob/master/paper_3667_camera_ready_submission.pdf",
+            "image": "./paper_img/worldmap.png",
+            "title": "**Multimodal Deep Learning Approach for Bangla Sign Language Recognition: Integrating Spatial and Geometric Features**",
+            "paper_url": "#",
             "authors": [
-                
                 {
-                    "name": "Md Tanbeer Jubaer",
-                    "profile": "https://www.researchgate.net/profile/Tanbeer-Jubaer"
-                },
-                {
-                    "name": "Barisha Chowdhury",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Md Minhazul Islam ",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Mohammad Harun Or Rashid",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
+                    "name": "Sumaiya Rahman",
+                    "profile": "https://www.linkedin.com/in/rsumaiya"
                 }
             ],
             "notes": [
-                "Accepted - (STI 2024)"
+                "Accepted - (2nd International Conference on Next-Generation Computing, IoT, and Machine Learning, 2025)"
             ],
-            "description": "This study addresses the challenges of sentiment and emotion analysis in Bangla e-commerce datasets caused by data discrepancies. A novel approach is proposed to identify and resolve inconsistencies, followed by applying the state-of-the-art BERT model for sentiment and emotion recognition. Results show significant accuracy improvements: sentiment analysis accuracy increased from **93.96% to 96.31%**, and emotion analysis improved from **90.94% to 93.59%** after data cleaning. Comparative analyses highlight the effectiveness of this approach, emphasizing discrepancy detection as a crucial preprocessing step for enhancing insights into consumer behavior.",
-            "supervisors": [
-                {
-                    "name": "Mohammad Harun Or Rashid",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                }
-            ]
-        },
-        {
-            "image": "portfolio/public/paper_img/worldmap.png",
-            "title": "**Analyzing Audience Engagement in Esports: Sentiment and LLM-Based Topic Insights from Live Chats in South Asia**",
-            "paper_url": "https://github.com/oitik/papers/blob/master/Esports.pdf",
-            "authors": [
-                
-                {
-                    "name": "Md Tanbeer Jubaer",
-                    "profile": "https://www.researchgate.net/profile/Tanbeer-Jubaer"
-                },
-                {
-                    "name": "Mayeesha Farzana",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Barisha Chowdhury",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Md Shahid Uz Zaman",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                },
-                {
-                    "name": "Azmain Yakin Srizon",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                },
-                {
-                    "name": "Md Minhazul Islam",
-                    "profile": "https://github.com/minannu"
-                }
-            ],
-            "notes": [
-                "Accepted - (ICCIT 2024 - *International Conference on Computer and Information Technology*)"
-            ],
-            "description": "This study explores audience engagement in esports through sentiment analysis and topic discovery, focusing on PUBG Mobile across **Bangladesh, India, and Pakistan.** Using a dataset of **15 million** live chat messages, a pre-trained **RoBERTa** model categorized user sentiments, revealing a notable increase in positive sentiment among Bangladeshi viewers. The **Gemma 7b-it** model identified key discussion topics, including gameplay strategies and community interactions. Findings highlight a strong link between view counts and engagement, presenting opportunities for advertisers to reach dedicated fans. Despite limitations like dataset scope and resource constraints, the research provides valuable insights into real-time esports engagement, paving the way for future multimodal studies.",
-            "supervisors": [
-                {
-                    "name": "Azmain Yakin Srizon",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                },
-                {
-                    "name": "Md Shahid Uz Zaman",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                }
-            ]
-        },
-        {
-            "image": "portfolio/public/paper_img/worldmap.png",
-            "title": "**Explainable AI-Driven Improved Disease Prediction through Symptom Analysis with Custom BERT**",
-            "paper_url": "https://github.com/oitik/papers/blob/master/Explainable_AI_Driven_Improved_Disease_Prediction_through_Symptom_Analysis_with_Custom_BERT.pdf",
-            "authors": [
-                {
-                    "name": "Md Minhazul Islam",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Md Tanbeer Jubaer",
-                    "profile": "https://www.researchgate.net/profile/Tanbeer-Jubaer"
-                },
-                {
-                    "name": "Azmain Yakin Srizon",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                },
-                {
-                    "name": "Md Ali Hossain",
-                    "profile": "https://scholar.google.com/citations?user=C7ntpAIAAAAJ&hl=en"
-                }
-            ],
-            "notes": [
-                "Accepted - (ICCIT 2024 - *International Conference on Computer and Information Technology*)"
-            ],
-            "description": "This study introduces a custom BERT-based hybrid model for disease prediction from patient symptom descriptions, using the Symptom2Disease dataset with 1,200 samples across 24 disease categories. The model integrates Explainable AI (XAI) techniques for transparency and employs dropout to prevent overfitting, achieving 99% accuracy. The inclusion of XAI enables word-level contribution visualizations, offering insights into symptom influence. This model demonstrates higher accuracy and faster training times, making it both effective and computationally efficient for medical applications.",
-            "supervisors": [
-                {
-                    "name": "Azmain Yakin Srizon",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                },
-                {
-                    "name": "Md Ali Hossain",
-                    "profile": "https://scholar.google.com/citations?user=C7ntpAIAAAAJ&hl=en"
-                }
-            ]
-        },
-        {
-            "image": "portfolio/public/paper_img/worldmap.png",
-            "title": "**Live and mediated user engagements: A comparative dataset from two Bengali audio-story based youtube channels**",
-            "paper_url": "https://www.sciencedirect.com/science/article/pii/S2352340924011818?via%3Dihub&fbclid=IwY2xjawHGXrtleHRuA2FlbQIxMAABHVEK0gDs7JvJ7jhRwQgDz6YwctnkWIofwR-2uy5LuVipuNQEXwKTPAgSzg_aem_M38kHgFZlbyCm_715bnQ4g",
-            "authors": [
-                {
-                    "name": "Mohammad Harun Or Rashid",
-                    "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                },
-                {
-                    "name": "Md Tanbeer Jubaer",
-                    "profile": "https://www.researchgate.net/profile/Tanbeer-Jubaer"
-                },
-                {
-                    "name": "Md Minhazul Islam",
-                    "profile": "https://github.com/minannu"
-                },
-                {
-                    "name": "Barisha Chowdhury",
-                    "profile": "https://github.com/minannu"
-                }
-            ],
-            "notes": [
-                "Accepted - (**Data in Brief**)"
-            ],
-            "description": "This dataset contains user engagement and language data from two YouTube audio story channels, covering 230 stories from July 2022 to February 2024. It includes over 250,000 comments, 300,000 live chats, and quantitative metrics such as views, likes, and comments, along with language categorization of user comments. The dataset offers insights into live versus post-live interactions, digital engagement patterns, and language use. It is a valuable resource for research in digital media, linguistics, and social media analysis, as well as for content creators and marketers to optimize audience engagement strategies.",
-            "supervisors": [
-                {
-                "name": "Mohammad Harun Or Rashid",
-                "profile": "https://scholar.google.com/citations?hl=en&user=o19GpMgAAAAJ"
-                }
-            ]
+            "description": "This innovative research presents a multimodal deep learning framework for Bangla sign language recognition by integrating spatial and geometric features. The study addresses the critical need for accessible communication technologies for the hearing-impaired community in Bangladesh. The work combines computer vision techniques with deep learning architectures to create an effective recognition system that can bridge communication gaps and promote inclusivity in digital interactions.",
+            "supervisors": []
         }
     ]
 }

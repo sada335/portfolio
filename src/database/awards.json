@@ -1,60 +1,48 @@
 {
-  "Scholarships": [
+  "achievements": [
     {
-      "title": "Higher Secondary Certificate (HSC) Examination 2019",
-      "description": "Awarded Jashore Board Scholarship for excellence in HSC examination in General Grade — Full Tuition Fee waiver in Bachelor with around $400 stipend for the period of 2019 to 2023."
+      "title": "National Champion in Hackathon 2022",
+      "description": "Achieved **1st position** in National Hackatom (a form of hackathon) organized by **Moscow Engineering Physics Institute (MEPhI)** & Information Center on Nuclear Energy. This achievement demonstrates exceptional problem-solving skills and technical innovation capabilities."
     },
     {
-      "title": "Secondary School Certificate (SSC) Examination 2017",
-      "description": "Jashore Board Scholarship for excellence in SSC examination in General Grade with around $80 stipend for the period of 2014 to 2017."
-    },
-    {
-      "title": "Junior School Certificate (JSC) Examination 2014",
-      "description": "Jashore Board Scholarship for excellence in JSC examination in General Grade — Full Tuition Fee waiver in school with some stipend for the period of 2014 to 2017."
-    },
-    {
-      "title": "Primary School Certificate (PSC) Examination 2011",
-      "description": "Jashore Board Scholarship for excellence in PSC examination in General Grade — Full Tuition Fee waiver in high school with some stipend for the period of 2011 to 2014."
+      "title": "Smart Rajshahi Innovation Challenge 2023",
+      "description": "Selected among the **Top 30** in the Smart Rajshahi Innovation Challenge 2023, organized by S2S Ventures, supported by a2i and Rajshahi City Corporation. This recognition highlights innovative thinking in smart city solutions."
     }
   ],
-  "RecentCompetitions": [
+  "scholarships": [
     {
-      "title": "Top 15 in Dataverse Challenge 2023 - IT Verse",
-      "description": "Achieved Top 15 rank in the Dataverse Challenge, showcasing strong data analysis and ML skills. Impact or recognition associated with the award."
+      "title": "Government Scholarship in Dhaka Board, HSC",
+      "description": "Awarded Government Scholarship for excellence in Higher Secondary Certificate examination from 2019-2024. This scholarship recognizes outstanding academic performance and provides financial support for higher education."
     },
     {
-      "title": "Top 10 in CUET ETE DAY 2023 ML Competition - CUET",
-      "description": "Secured a Top 10 position in a machine learning competition, demonstrating expertise in model building and optimization. Impact or recognition associated with the award."
+      "title": "DMP (Dhaka Metropolitan Police) Scholarship, HSC, 2019",
+      "description": "Received DMP Scholarship for exceptional performance in HSC examination, demonstrating academic excellence and commitment to education."
     },
     {
-      "title": "Finalist in Robi Datathon 3.0 - May 2024, Robi Headquarters, Dhaka",
-      "description": "Participated in the final round of Robi Datathon 3.0, showcasing data science and analytics skills."
+      "title": "Prime Minister's Scholarship, SSC, 2017",
+      "description": "Awarded the prestigious Prime Minister's Scholarship for outstanding results in Secondary School Certificate examination, recognizing top academic achievers nationally."
+    },
+    {
+      "title": "DMP Head Office Scholarship, SSC, 2017",
+      "description": "Received DMP Head Office Scholarship for excellence in SSC examination, highlighting consistent academic performance."
+    },
+    {
+      "title": "Excellence Award, SSC Result, BRAC, 2017",
+      "description": "Awarded Excellence Award by BRAC for outstanding SSC results, recognizing academic achievement and potential for future success."
     }
   ],
-  "Certificates": [
+  "professionalDevelopment": [
     {
-      "title": "EDGECourse Certification",
-      "description": "Organizer: Bangladesh Computer Council, ICT Division"
+      "title": "Banglalink Womentor 5.0 Program",
+      "description": "Selected among the **Top 15 Female STEM talents nationwide**. Participated in comprehensive leadership development program held at Banglalink Head Office, Gulshan-1, Dhaka (July 2024 - December 2024)."
     },
     {
-      "title": "ITEE FE Full Pass Certificate",
-      "description": "Organizer: Bangladesh Computer Council"
+      "title": "Aspire Leaders Program 2024",
+      "description": "Completed leadership development program organized by the **Aspire Institute, founded at Harvard University** (April 2024 - July 2024). Gained valuable insights into leadership, strategy, and professional development."
     },
     {
-      "title": "Certificate of Appreciation – 6th International Conference on Sustainable Technology for Industry 5.0",
-      "description": "Organizer: Green University Bangladesh"
-    },
-    {
-      "title": "Certificate of Appreciation – 27th International Conference on Computer and Information Technology",
-      "description": "Organizer: IEEE Bangladesh Section"
-    },
-    {
-      "title": "Certificate of Appreciation – 26th International Conference on Computer and Information Technology",
-      "description": "Organizer: IEEE Bangladesh Section"
-    },
-    {
-      "title": "Game Development Certification",
-      "description": ".."
+      "title": "Python Training (PCEP Certified)",
+      "description": "Achieved **PCEP Certification with 93% Score** from PeopleNTech Institute of IT & ICT Division of Bangladesh, demonstrating strong programming competency."
     }
   ]
 }

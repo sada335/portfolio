@@ -14,10 +14,11 @@ const Awards = () => {
             <h2 className="text-xl font-bold capitalize mb-2">
               {divisionKey.replace(/([A-Z])/g, ' $1').trim()}
             </h2>
-            <ul className="list-disc list-inside space-y-2">
+            <ul className="list-disc list-inside space-y-4">
               {awardsData[divisionKey].map((award, idx) => (
                 <li key={idx} className="text-gray-700">
-                  <div className="font-bold">{award.title}</div>
+                  <span className="font-bold">{award.title}</span>
+                  <br />
                   <TextFormatter text={award.description} />
                 </li>
               ))}
