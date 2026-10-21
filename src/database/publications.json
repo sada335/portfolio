@@ -1,51 +1,92 @@
 {
     "publications": [
         {
-            "image": "./paper_img/overall.png",
-            "title": "**Gender Abusive Language Detection in Bengali Using Machine Learning Algorithms**",
-            "paper_url": "#",
-            "authors": [
-                {
-                    "name": "Sumaiya Rahman",
-                    "profile": "https://www.linkedin.com/in/rsumaiya"
-                }
-            ],
-            "notes": [
-                "Published - (2nd International Conference on Big Data, IoT and Machine Learning, Springer, 2023)"
-            ],
-            "description": "This research focuses on developing machine learning algorithms to detect gender-based abusive language in Bengali text. The study addresses the critical need for automated detection systems to identify and filter harmful content targeting individuals based on gender. The research contributes to creating safer digital communication platforms by implementing effective natural language processing techniques specifically designed for Bengali language patterns and cultural contexts.",
-            "supervisors": []
-        },
-        {
-            "image": "./paper_img/sentiment_nodis.png",
-            "title": "**Classifying Fake News With A Large-Scale Dataset Using Machine Learning Approaches**",
-            "paper_url": "#",
-            "authors": [
-                {
-                    "name": "Sumaiya Rahman",
-                    "profile": "https://www.linkedin.com/in/rsumaiya"
-                }
-            ],
-            "notes": [
-                "Accepted - (IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking, 2025)"
-            ],
-            "description": "This comprehensive study presents machine learning approaches for fake news classification using large-scale datasets. The research addresses the growing challenge of misinformation in digital media by developing robust classification algorithms capable of distinguishing between authentic and fabricated news content. The work contributes to combating the spread of false information through advanced computational techniques and comprehensive data analysis methodologies.",
-            "supervisors": []
-        },
-        {
             "image": "./paper_img/worldmap.png",
             "title": "**Multimodal Deep Learning Approach for Bangla Sign Language Recognition: Integrating Spatial and Geometric Features**",
             "paper_url": "#",
             "authors": [
-                {
-                    "name": "Sumaiya Rahman",
-                    "profile": "https://www.linkedin.com/in/rsumaiya"
-                }
+                { "name": "Sumaiya Rahman", "profile": "https://www.linkedin.com/in/rsumaiya" }
             ],
             "notes": [
-                "Accepted - (2nd International Conference on Next-Generation Computing, IoT, and Machine Learning, 2025)"
+                "[C.1] Published — 2nd International Conference on Next-Generation Computing, IoT, and Machine Learning, 2025"
             ],
-            "description": "This innovative research presents a multimodal deep learning framework for Bangla sign language recognition by integrating spatial and geometric features. The study addresses the critical need for accessible communication technologies for the hearing-impaired community in Bangladesh. The work combines computer vision techniques with deep learning architectures to create an effective recognition system that can bridge communication gaps and promote inclusivity in digital interactions.",
+            "description": "A multimodal deep learning framework for Bangla sign language recognition that integrates spatial and geometric features, supporting accessible communication technologies for the hearing-impaired community in Bangladesh.",
+            "supervisors": []
+        },
+        {
+            "image": "./paper_img/sentiment_nodis.png",
+            "title": "**Detecting Depression in Social Media Posts Using SBERT-CNN: A Transformer-based Semantic Neural Network Approach**",
+            "paper_url": "#",
+            "authors": [
+                { "name": "Shaikh Ibna Sazzad", "profile": "#" },
+                { "name": "Sumaiya Rahman", "profile": "https://www.linkedin.com/in/rsumaiya" }
+            ],
+            "notes": [
+                "[C.2] Published — 28th IEEE International Conference on Computer and Information Technology (ICCIT), Bangladesh, 2025"
+            ],
+            "description": "A transformer-based semantic neural network that combines SBERT embeddings with a CNN classifier to detect depression from social media posts.",
+            "supervisors": []
+        },
+        {
+            "image": "./paper_img/overall.png",
+            "title": "**Classifying Fake News With A Large-Scale Dataset Using Machine Learning Approaches**",
+            "paper_url": "#",
+            "authors": [
+                { "name": "Mayeesha Farjana", "profile": "#" },
+                { "name": "Sumaiya Rahman", "profile": "https://www.linkedin.com/in/rsumaiya" }
+            ],
+            "notes": [
+                "[C.3] Published — IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking, 2025"
+            ],
+            "description": "Machine learning approaches for fake news classification on a large-scale dataset, addressing misinformation in digital media through robust computational methods.",
+            "supervisors": []
+        },
+        {
+            "image": "./paper_img/overall.png",
+            "title": "**ER-SE Hybrid Model for Automated Kidney Abnormality Detection in CT Images**",
+            "paper_url": "#",
+            "authors": [
+                { "name": "Md. Yesrif Hasan Emon", "profile": "#" },
+                { "name": "Shyla Afroge", "profile": "#" },
+                { "name": "Mahmudun Nabi Saikat", "profile": "#" },
+                { "name": "Sumaiya Rahman", "profile": "https://www.linkedin.com/in/rsumaiya" }
+            ],
+            "notes": [
+                "[C.4] Published — IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON), Bangladesh, 2025"
+            ],
+            "description": "A hybrid ER-SE model for automated detection of kidney abnormalities in CT images, contributing to computer-aided diagnosis in biomedical imaging.",
+            "supervisors": []
+        },
+        {
+            "image": "./paper_img/sentiment_nodis.png",
+            "title": "**Gender Abusive Language Detection in Bengali Using Machine Learning Algorithms**",
+            "paper_url": "#",
+            "authors": [
+                { "name": "Mayeesha Farjana", "profile": "#" },
+                { "name": "Barisha Chowdhury", "profile": "#" },
+                { "name": "Farhana Rahman", "profile": "#" },
+                { "name": "Zuairia Raisa Bintay Makin", "profile": "#" },
+                { "name": "Sumaiya Rahman", "profile": "https://www.linkedin.com/in/rsumaiya" }
+            ],
+            "notes": [
+                "[C.5] Published — 2nd International Conference on Big Data, IoT and Machine Learning, pp. 1–15, Springer, 2023"
+            ],
+            "description": "Machine learning models for detecting gender-based abusive language in Bengali text, contributing to safer digital communication platforms for Bengali speakers.",
+            "supervisors": []
+        },
+        {
+            "image": "./paper_img/worldmap.png",
+            "title": "**YTClickbait21K: Human-Annotated Multimodal Dataset for YouTube Clickbait Detection Across Diverse Channels and Content Categories**",
+            "paper_url": "#",
+            "authors": [
+                { "name": "Md Minhazul Islam", "profile": "#" },
+                { "name": "Md Tanbeer Jubaer", "profile": "#" },
+                { "name": "Sumaiya Rahman", "profile": "https://www.linkedin.com/in/rsumaiya" }
+            ],
+            "notes": [
+                "[J.1] Under review — Scientific Data, Springer Nature [Q1 Journal], 2026"
+            ],
+            "description": "A human-annotated multimodal dataset for YouTube clickbait detection spanning diverse channels and content categories.",
             "supervisors": []
         }
     ]

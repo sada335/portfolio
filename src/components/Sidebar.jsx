@@ -1,11 +1,12 @@
 import sidebar from "../database/sidebar.json";
-import avatar from "../assets/avatar.png";
+// import avatar from "../assets/avatar.png";
+import avatar2 from "../assets/Sumaiya_Profile.jpeg";
 
 const Sidebar = () => {
   return (
     <div className="flex flex-col justify-start items-center gap-4 lg:gap-8 pt-4 lg:pt-8 px-4 lg:px-0">
       <div className="h-24 w-24 lg:h-40 lg:w-40 rounded-full p-2 border border-gray-300 overflow-hidden">
-        <img src={avatar} className="object-center scale-[1.2]" />
+        <img src={avatar2} className="object-center scale-[1.25]" />
       </div>
 
       <div className="w-full lg:pl-20 text-center lg:text-left">
@@ -44,8 +45,24 @@ const Sidebar = () => {
               <path d="M460.6 147.3L353 256.9c-.8.8-.8 2 0 2.8l75.3 80.2c5.1 5.1 5.1 13.3 0 18.4-2.5 2.5-5.9 3.8-9.2 3.8s-6.7-1.3-9.2-3.8l-75-79.9c-.8-.8-2.1-.8-2.9 0L313.7 297c-15.3 15.5-35.6 24.1-57.4 24.2-22.1.1-43.1-9.2-58.6-24.9l-17.6-17.9c-.8-.8-2.1-.8-2.9 0l-75 79.9c-2.5 2.5-5.9 3.8-9.2 3.8s-6.7-1.3-9.2-3.8c-5.1-5.1-5.1-13.3 0-18.4l75.3-80.2c.7-.8.7-2 0-2.8L51.4 147.3c-1.3-1.3-3.4-.4-3.4 1.4V368c0 17.6 14.4 32 32 32h352c17.6 0 32-14.4 32-32V148.7c0-1.8-2.2-2.6-3.4-1.4z"></path>
               <path d="M256 295.1c14.8 0 28.7-5.8 39.1-16.4L452 119c-5.5-4.4-12.3-7-19.8-7H79.9c-7.5 0-14.4 2.6-19.8 7L217 278.7c10.3 10.5 24.2 16.4 39 16.4z"></path>
             </svg>
-            <a href={`mailto:${sidebar.email}`} target="_blank" rel="noopener noreferrer">Email</a>
+            <a href={`mailto:${sidebar.email}`} target="_blank" rel="noopener noreferrer">{sidebar.email}</a>
           </div>
+
+          {sidebar.phone ? (
+            <div className="flex justify-center lg:justify-start items-center gap-2 text-base lg:text-lg">
+              <svg
+                stroke="currentColor"
+                fill="currentColor"
+                strokeWidth="0"
+                viewBox="0 0 512 512"
+                height="1em"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M391 480c-19.52 0-46.94-7.06-88-30-49.93-28-88.55-53.85-138.21-103.38C116.91 298.77 91.69 260.94 64 211.43c-14.9-26.81-23.23-49.1-26.34-66.69-6.81-38.53 6.66-64.91 22-85.67a87 87 0 0 1 26.63-21.58c1.31-.81 2.65-1.55 4.03-2.22A45.54 45.54 0 0 1 123.5 32c20.29 0 41.71 10.7 62.23 32.1 18.25 19.05 32.54 43.83 42.33 73.09a4 4 0 0 1-1.47 5.16l-56.4 32.1a16 16 0 0 0-6.78 20.78c15.9 36.47 45.87 74.09 84.42 112.64s76.17 68.51 112.64 84.42a16 16 0 0 0 20.78-6.78l32.1-56.4a4 4 0 0 1 5.16-1.47c29.26 9.79 54.05 24.09 73.09 42.33C469.3 346.79 480 368.21 480 388.5a45.54 45.54 0 0 1-2.24 22.18c-.67 1.38-1.41 2.72-2.22 4.03a87 87 0 0 1-21.58 26.63c-20.76 15.34-47.14 28.81-85.67 22-17.59-3.11-39.88-11.44-66.69-26.34z"></path>
+              </svg>
+              <a href={`tel:${sidebar.phone}`}>{sidebar.phone}</a>
+            </div>
+          ) : null}
 
           {sidebar.linkedin ? (
             <div className="flex justify-center lg:justify-start items-center gap-2 text-base lg:text-lg">

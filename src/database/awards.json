@@ -2,47 +2,57 @@
   "achievements": [
     {
       "title": "National Champion in Hackathon 2022",
-      "description": "Achieved **1st position** in National Hackatom (a form of hackathon) organized by **Moscow Engineering Physics Institute (MEPhI)** & Information Center on Nuclear Energy. This achievement demonstrates exceptional problem-solving skills and technical innovation capabilities."
+      "description": "Achieved **1st position** in National Hackatom organized by **Moscow Engineering Physics Institute (MEPhI)** & Information Center on Nuclear Energy."
     },
     {
       "title": "Smart Rajshahi Innovation Challenge 2023",
-      "description": "Selected among the **Top 30** in the Smart Rajshahi Innovation Challenge 2023, organized by S2S Ventures, supported by a2i and Rajshahi City Corporation. This recognition highlights innovative thinking in smart city solutions."
+      "description": "Selected among the **Top 30** in the Smart Rajshahi Innovation Challenge 2023, organized by S2S Ventures, supported by a2i and Rajshahi City Corporation."
     }
   ],
   "scholarships": [
     {
-      "title": "Government Scholarship in Dhaka Board, HSC",
-      "description": "Awarded Government Scholarship for excellence in Higher Secondary Certificate examination from 2019-2024. This scholarship recognizes outstanding academic performance and provides financial support for higher education."
+      "title": "Government Scholarship in Dhaka Board, HSC (2019–2024)",
+      "description": "Awarded the Government Scholarship for excellence in the Higher Secondary Certificate examination."
     },
     {
       "title": "DMP (Dhaka Metropolitan Police) Scholarship, HSC, 2019",
-      "description": "Received DMP Scholarship for exceptional performance in HSC examination, demonstrating academic excellence and commitment to education."
+      "description": "Received the DMP Scholarship for exceptional performance in the HSC examination."
     },
     {
       "title": "Prime Minister's Scholarship, SSC, 2017",
-      "description": "Awarded the prestigious Prime Minister's Scholarship for outstanding results in Secondary School Certificate examination, recognizing top academic achievers nationally."
+      "description": "Awarded the Prime Minister's Scholarship for outstanding results in the Secondary School Certificate examination."
     },
     {
       "title": "DMP Head Office Scholarship, SSC, 2017",
-      "description": "Received DMP Head Office Scholarship for excellence in SSC examination, highlighting consistent academic performance."
+      "description": "Received the DMP Head Office Scholarship for excellence in the SSC examination."
     },
     {
       "title": "Excellence Award, SSC Result, BRAC, 2017",
-      "description": "Awarded Excellence Award by BRAC for outstanding SSC results, recognizing academic achievement and potential for future success."
+      "description": "Awarded the Excellence Award by BRAC for outstanding SSC results."
     }
   ],
-  "professionalDevelopment": [
+  "leadershipAndDevelopment": [
     {
       "title": "Banglalink Womentor 5.0 Program",
-      "description": "Selected among the **Top 15 Female STEM talents nationwide**. Participated in comprehensive leadership development program held at Banglalink Head Office, Gulshan-1, Dhaka (July 2024 - December 2024)."
+      "description": "Selected among the **Top 15 Female STEM talents nationwide**. Banglalink Head Office, Gulshan-1, Dhaka (July 2024 – December 2024)."
     },
     {
       "title": "Aspire Leaders Program 2024",
-      "description": "Completed leadership development program organized by the **Aspire Institute, founded at Harvard University** (April 2024 - July 2024). Gained valuable insights into leadership, strategy, and professional development."
+      "description": "Selected and participated in an extensive leadership development program organized by the **Aspire Institute, founded at Harvard University** (April 2024 – July 2024)."
+    }
+  ],
+  "professionalTraining": [
+    {
+      "title": "Python (Django) Training",
+      "description": "Organized by **RUET** under the EDGE Project, BCC, ICT Division (May 2024 – February 2025)."
     },
     {
       "title": "Python Training (PCEP Certified)",
-      "description": "Achieved **PCEP Certification with 93% Score** from PeopleNTech Institute of IT & ICT Division of Bangladesh, demonstrating strong programming competency."
+      "description": "Achieved **PCEP Certification with 93% Score** from PeopleNTech Institute of IT & ICT Division (June 2023 – November 2023)."
+    },
+    {
+      "title": "LEDP Training (Web Design & Development)",
+      "description": "Bangladesh Government’s LEDP Program (January 2023 – April 2023)."
     }
   ]
 }

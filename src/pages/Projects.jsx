@@ -13,6 +13,12 @@ const Projects = () => {
         {projects.map((item, index) => (
           <div key={index}>
             <h2 className="text-lg font-bold">{item.title}</h2>
+            {item.tools ? (
+              <p className="text-sm text-gray-600 mt-1">
+                <span className="font-medium">Tools: </span>
+                {item.tools}
+              </p>
+            ) : null}
             <ul className="list-disc ml-5 text-gray-700 mt-1 space-y-1">
               {item.description.map((point, idx) => (
                 <li key={idx}>

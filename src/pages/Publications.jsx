@@ -25,7 +25,7 @@ const Publications = () => {
                       return (
                         <a
                           href={_item.profile}
-                          className={_index === 0 ? "font-medium" : ""}
+                          className={_item.name === "Sumaiya Rahman" ? "font-medium" : ""}
                           key={_index}>
                           {_item.name}
                           {item.authors.length !== _index + 1 ? ", " : ""}

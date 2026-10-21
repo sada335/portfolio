@@ -1,11 +1,18 @@
 {
     "aboutMe": {
-        "description": "I am a **Lecturer** in Computer Science & Engineering at **World University of Bangladesh**, with a strong passion for academic excellence and research innovation. My professional journey encompasses both teaching and research, focusing on **Artificial Intelligence** and **Natural Language Processing**. Through my academic work and published research in international conferences, I am committed to fostering the next generation of technology leaders while advancing knowledge in cutting-edge fields. I believe in the transformative power of education and strive to inspire students to achieve excellence in their academic and professional pursuits.",
+        "description": "I am a Computer Science and Engineering graduate and currently serving as a **Lecturer** in the Department of CSE at **Eastern University**, Dhaka. I am also pursuing an **M.Sc. in Computer Science and Engineering** at **Rajshahi University of Engineering & Technology (RUET)**. My academic and research journey has centered on **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**, leading to impactful projects and publications in international conferences. These experiences have strengthened my commitment to continuous learning, effective teaching, and knowledge sharing. I am passionate about fostering innovation in both research and education and aim to contribute meaningfully to the academic and scientific community.",
         "quickPreviews": [
-            "**Current Position:** Lecturer at **World University of Bangladesh**, Department of Computer Science & Engineering",
-            "**Academic Background:** B.Sc. in CSE from **Rajshahi University of Engineering & Technology** with **CGPA: 3.75/4.00**",
-            "**Research Portfolio:** 3 publications in international conferences covering AI, NLP, Fake News Detection & Sign Language Recognition",
-            "**Recognition:** National Champion in Hackathon 2022 & Top 15 Female STEM talent in Bangladesh"
+            "**Current Position:** Lecturer, Department of CSE, **Eastern University**, Dhaka (June 2026 – Present)",
+            "**Graduate Study:** M.Sc. in CSE at **RUET** | **CGPA: 4.00 / 4.00** (1st Semester)",
+            "**Undergraduate:** B.Sc. in CSE from **RUET** | **CGPA: 3.75 / 4.00** (January 2020 – June 2025)",
+            "**Research:** 5 conference publications and 1 journal manuscript under review in AI, NLP, computer vision, and multimodal learning",
+            "**Recognition:** National Champion in Hackathon 2022 & Top 15 Female STEM talent (Banglalink Womentor 5.0)"
+        ],
+        "researchInterests": [
+            "Machine Learning & Deep Learning",
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Natural Language Processing (NLP)"
         ]
     }
 }

@@ -5,40 +5,26 @@
       "year": "2023-24",
       "description": [
         "Built a **BiLSTM model** using a 5K self-collected dataset for detecting Bangla hate comments.",
-        "Applied **TF-IDF vectorization**, comprehensive preprocessing techniques, and evaluated model performance using precision & recall metrics.",
-        "Achieved significant accuracy in identifying hate speech patterns in Bengali language text."
+        "Applied **TF-IDF**, preprocessing, and evaluated the model with precision and recall."
       ],
-      "tools": "Python, BiLSTM, TF-IDF, Natural Language Processing"
+      "tools": "Python, BiLSTM, TF-IDF"
     },
     {
       "title": "Luminous Learners Portal (CSE 3100 Project)",
       "year": "2023-24",
       "description": [
-        "Developed a comprehensive **study portal website** for educational management.",
-        "Built using **Django framework** with responsive design using HTML, CSS, and Bootstrap.",
-        "Features include lecture management, notes organization, assignment tracking, and e-resources repository."
+        "Developed a study portal website for managing lectures, notes, assignments, and e-resources.",
+        "Built with **Django**, HTML, CSS, and Bootstrap."
       ],
-      "tools": "Django, Python, HTML, CSS, Bootstrap, SQLite"
+      "tools": "Django, HTML, CSS, Bootstrap"
     },
     {
       "title": "Hotel Management System (CSE 2100 Project)",
       "year": "2022-23",
       "description": [
-        "Created a **Java-based GUI hotel management system** with comprehensive functionality.",
-        "Implemented billing system, reservation management, and file handling capabilities.",
-        "Designed with **Object-Oriented Programming principles** ensuring modular and maintainable code architecture."
+        "Created a **Java-based GUI** hotel system with billing, reservations, file handling, and OOP-based modular design."
       ],
-      "tools": "Java, Swing, OOP, File Handling, GUI Development"
-    },
-    {
-      "title": "Gender Abusive Language Detection Research",
-      "year": "2023",
-      "description": [
-        "Conducted research on **Gender Abusive Language Detection in Bengali** using machine learning algorithms.",
-        "Published findings in the **2nd International Conference on Big Data, IoT and Machine Learning** by Springer.",
-        "Developed models to identify and classify abusive language patterns targeting gender-based harassment."
-      ],
-      "tools": "Python, Machine Learning, NLP, Bengali Language Processing, Research Methodology"
+      "tools": "Java, OOP"
     }
   ]
 }

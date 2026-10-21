@@ -15,7 +15,7 @@ const CV = () => {
         
         <div className="relative" style={{ height: '80vh' }}>
           <iframe
-            src="./files/My new CV for Lec- Updated (15-07-25).pdf"
+            src="./files/Academic_CV.pdf"
             className="w-full h-full border-0"
             title="Sumaiya Rahman CV"
             style={{ minHeight: '600px' }}

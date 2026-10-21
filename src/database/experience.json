@@ -1,28 +1,34 @@
 {
     "experiences": [
       {
-        "title": "Research Experience",
-        "company": "Academic Research",
-        "duration": "2023 - Present",
-        "description": "Published research on **Gender Abusive Language Detection in Bengali Using Machine Learning Algorithms** in the 2nd International Conference on Big Data, IoT and Machine Learning, Springer, 2023. This research focuses on developing machine learning models to identify and classify abusive language patterns in Bengali text, contributing to safer digital communication platforms."
+        "title": "Lecturer, Department of Computer Science and Engineering",
+        "company": "Eastern University, Dhaka, Bangladesh",
+        "duration": "June 2026 – Present | Full Time",
+        "description": "Teaching undergraduate courses and laboratory sessions in Computer Science and Engineering. Supervising undergraduate thesis and capstone projects. Developing course materials and assessment components. Providing academic advising and student mentorship."
+      },
+      {
+        "title": "Lecturer, Department of Computer Science and Engineering",
+        "company": "World University of Bangladesh, Dhaka, Bangladesh",
+        "duration": "July 2025 – May 2026 | Full Time",
+        "description": "Conducted undergraduate lectures and laboratory classes in Computer Science and Engineering. Prepared course materials, assignments, and examinations. Evaluated student performance and academic progress. Assisted in departmental academic and administrative activities."
       },
       {
         "title": "Leadership Development",
         "company": "Banglalink Womentor 5.0 Program",
-        "duration": "July 2024 - December 2024",
-        "description": "Selected among the **Top 15 Female STEM talents nationwide**. Participated in an intensive leadership development program held at Banglalink Head Office, Gulshan-1, Dhaka. The program focused on developing technical leadership skills, mentorship capabilities, and professional growth in the technology sector."
+        "duration": "July 2024 – December 2024",
+        "description": "Selected among the **Top 15 Female STEM talents nationwide**. Participated in an intensive leadership development program at Banglalink Head Office, Gulshan-1, Dhaka, focused on technical leadership, mentorship, and professional growth."
       },
       {
         "title": "Leadership Training",
         "company": "Aspire Leaders Program 2024",
-        "duration": "April 2024 - July 2024",
-        "description": "Completed leadership development program organized by the **Aspire Institute, founded at Harvard University**. Gained valuable insights into leadership principles, team management, and strategic thinking applicable to technology and research environments."
+        "duration": "April 2024 – July 2024",
+        "description": "Selected and participated in an extensive leadership development program organized by the **Aspire Institute, founded at Harvard University**."
       },
       {
         "title": "Professional Training",
-        "company": "Python & Web Development",
-        "duration": "2023 - 2025",
-        "description": "Completed multiple professional training programs including **Python (Django) Training** under RUET EDGE project, **Python Training with PCEP Certification (93% Score)**, and **LEDP Training in Web Design & Development**. These training programs enhanced technical skills in software development and web technologies."
+        "company": "Python, Django & Web Development",
+        "duration": "2023 – 2025",
+        "description": "Completed **Python (Django) Training** organized by RUET under the EDGE Project, BCC, ICT Division (May 2024 – February 2025); **Python Training with PCEP Certification (93% Score)** at PeopleNTech Institute of IT & ICT Division (June 2023 – November 2023); and **LEDP Training in Web Design & Development** under the Bangladesh Government’s LEDP Program (January 2023 – April 2023)."
       }
     ]
   }

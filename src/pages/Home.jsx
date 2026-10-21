@@ -31,6 +31,7 @@ const Home = () => {
         </ul>
       </div>
 
+      <InfoSection title="Research Interests" bulletPoints={aboutMe.researchInterests} />
       <InfoSection title="Education" bulletPoints={education} />
       <InfoSection title="Recent Updates" bulletPoints={recentUpdates} />
     </div>

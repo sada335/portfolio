@@ -1,0 +1,9 @@
+# This folder is already connected to:
+# https://github.com/sada335/portfolio.git
+# GitHub uses the `main` branch.
+
+# Later updates (after you change files):
+
+git add .
+git commit -m "Update portfolio"
+git push origin master:main
