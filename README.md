@@ -16,5 +16,7 @@ The site is configured for `https://sada335.github.io/portfolio/`. The
 changes are pushed to `main`.
 
 In the repository's **Settings → Pages**, set the build and deployment source
-to **GitHub Actions**. After the first successful workflow run, the site will
-be available at the URL above.
+to **GitHub Actions**. The `Deploy to GitHub Pages` workflow publishes the
+Vite-generated `build/` directory; do not enable a branch-root or Jekyll
+workflow, which would publish the unbuilt source instead. After the first
+successful workflow run, the site will be available at the URL above.
